@@ -1,7 +1,6 @@
 # A Tiny Metaverse of Multimodal Natural Language Understanding Classification
-
 The aim of this task is to determine whether a claim in a tweet is worth fact-checking. Typical approaches to make that decision require to either resort to the judgments of professional fact-checkers or to human annotators to answer several auxiliary questions such as "does it contain a verifiable factual claim?", and "is it harmful?", before deciding on the final check-worthiness label.
-
+![img.png](data%2Fimages%2Fimg.png)
 ## Guidelines
 The task is offered in Arabic and English. For simplicity, please focus on solving the English contest only!
 The scripts of our winning model should be able to run on a single GPU (within 12GB) effortlessly. Both sections are marked while the Section A has 30% and Section B has 70%.
