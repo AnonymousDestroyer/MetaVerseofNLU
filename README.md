@@ -1,4 +1,6 @@
 # A Tiny Metaverse of Multimodal Natural Language Understanding Classification
+Meta learning is a field of study devoted to discovering the most effective methods of learning. A principal research goal of meta learning is to find a generalizable initialization and an adaptive model architecture,  offering a strong efficient baseline for different downstream tasks.  Given recent momentum in **foundation models**, the need for a robust multimodal baseline for natural language understanding is both apparent and pressing. To address this issue, we propose an innovative model architecture for a range of tasks. As this exciting research remains ongoing, we are seeking highly motivated participants to contribute to this rewarding project.
+
 The aim of this task is to determine whether a claim in a tweet is worth fact-checking. Typical approaches to make that decision require to either resort to the judgments of professional fact-checkers or to human annotators to answer several auxiliary questions such as "does it contain a verifiable factual claim?", and "is it harmful?", before deciding on the final check-worthiness label.
 
 <p align="center">
